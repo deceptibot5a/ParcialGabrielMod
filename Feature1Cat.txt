@@ -5,3 +5,7 @@ Este es un método :3
 Este es el segundo commit del feature 1
 
 Este es otro método
+
+Este es el tercer commit del feature 1
+
+estoy sufriendo
