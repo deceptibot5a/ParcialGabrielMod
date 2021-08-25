@@ -1,0 +1,3 @@
+Este es el primer commit del feature 2
+
+Este es un método
